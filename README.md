@@ -8,9 +8,11 @@
 ---
 
  💻 Tech Skills
-- **Frontend:** HTML, CSS, JavaScript, ReactJS  
+- **Frontend:** HTML, CSS, JavaScript, ReactJS
+- **Backend:** Python, Django
 - **Database:** SQL  
-- **Tools:** VS Code, Git  
+- **Tools:** VS Code, Git
+- **Methodologies:** Agile
 - **Soft Skills:** Communication, Problem-Solving, Time Management, Teamwork
 
 ---
