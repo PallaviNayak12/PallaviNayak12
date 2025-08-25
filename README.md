@@ -1,4 +1,4 @@
-👋 Hi, I'm Pallavi Nayak!
+👋 Hi, I'm Pallavi G Nayak!
 
 🎓 Engineering Graduate in Electronics and Communication Engineering (ECE)  
 💻 Passionate about designing and building responsive web applications  
@@ -10,7 +10,7 @@
  💻 Tech Skills
 - **Frontend:** HTML, CSS, JavaScript, ReactJS
 - **Backend:** Python, Django
-- **Database:** SQL  
+- **Database:** MySQL  
 - **Tools:** VS Code, Git
 - **Methodologies:** Agile
 - **Soft Skills:** Communication, Problem-Solving, Time Management, Teamwork
