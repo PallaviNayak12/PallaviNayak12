@@ -1,33 +1,35 @@
-# 👋 HI, I'M **PALLAVI G NAYAK**
+👋 Hi, I'm Pallavi G Nayak!
 
-## 🎓 ENGINEERING GRADUATE IN **ELECTRONICS AND COMMUNICATION ENGINEERING (ECE)**
-## 💻 PASSIONATE ABOUT DESIGNING AND BUILDING **RESPONSIVE, USER-FRIENDLY WEB APPLICATIONS**
-## 🌱 CURRENTLY LEARNING **FULL STACK DEVELOPMENT**
-## 🚀 SEEKING **ENTRY-LEVEL OPPORTUNITIES** AS A **FRONTEND OR FULL STACK WEB DEVELOPER**
+🎓 Engineering Graduate in Electronics and Communication Engineering (ECE)  
+💻 Passionate about designing and building responsive web applications  
+🌱 Currently learning Full Stack Development  
+🚀 Seeking entry-level opportunities as a Frontend or Full Stack Web Developer
 
 ---
 
-# 💻 TECH SKILLS
-- **Frontend:** HTML, CSS, JavaScript, ReactJS  
-- **Backend:** Python, Django  
+ 💻 Tech Skills
+- **Frontend:** HTML, CSS, JavaScript, ReactJS
+- **Backend:** Python, Django
 - **Database:** MySQL  
-- **Tools:** VS Code, Git  
-- **Methodologies:** Agile  
-- **Soft Skills:** Communication, Problem-Solving, Time Management, Teamwork  
+- **Tools:** VS Code, Git
+- **Methodologies:** Agile
+- **Soft Skills:** Communication, Problem-Solving, Time Management, Teamwork
 
 ---
 
-# 📫 CONTACT ME
+
+ 📫 Contact Me
 - **Email:** pallavignayak12@gmail.com  
-- **LinkedIn:** [Pallavi Nayak](https://www.linkedin.com/in/pallavi-n-1a4785353)  
-- **GitHub:** [PallaviNayak12](https://github.com/PallaviNayak12)  
+- **LinkedIn:** [Pallavi Nayak](https://www.linkedin.com/in/pallavi-n-1a4785353)
 
 ---
 
-# 🗣️ LANGUAGES KNOWN
-English | Kannada | Konkani | Tulu  
+ 🗣️ Languages Known
+English, Kannada, Konkani, Tulu
 
 ---
 
-# 🌟 FUN FACT
-I ENJOY TURNING IDEAS INTO **SIMPLE, ELEGANT, AND BEAUTIFUL WEB INTERFACES** ✨
+ 🌟 Fun Fact
+I enjoy turning ideas into simple and beautiful web interfaces ✨
+
+--- 
