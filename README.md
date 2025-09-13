@@ -8,7 +8,7 @@
 ---
 
  💻 Tech Skills
-- **Frontend:** HTML, CSS, JavaScript, ReactJS
+- **Frontend:** HTML, CSS,BootStrap, JavaScript, ReactJS
 - **Backend:** Java,Python, Django
 - **Database:** MySQL  
 - **Tools:** VS Code, Git
