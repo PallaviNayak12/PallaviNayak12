@@ -32,4 +32,4 @@ English, Kannada, Konkani, Tulu
  🌟 Fun Fact
 I enjoy turning ideas into simple and beautiful web interfaces ✨
 
---- 
+---
