@@ -13,7 +13,7 @@
 - **Tools:** VS Code, Git
 - **Methodologies:** Agile
 - **Soft Skills:** Communication, Problem-Solving, Time Management, Teamwork
-
+                          
 ---
 
 
