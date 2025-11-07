@@ -15,7 +15,7 @@
 * **Database:** MySQL
 * **Tools:** VS Code, Git
 * **Methodologies:** Agile
-* **Soft Skills:** Communication, Problem-Solving, Time Management, Teamwork
+* **Soft Skills:** Communication, Problem-Solving, Time Management, Teamwork 
 
 ---
 
