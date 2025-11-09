@@ -2,7 +2,7 @@
 
 👋 **Hi, I'm Pallavi G Nayak!**
 
-💻 Passionate about designing and building responsive web applications
+💻 Passionate about designing and building responsive web applications 
 🌱 Currently learning Full Stack Development
 🚀 Seeking entry-level opportunities as a **Frontend** or **Full Stack Web Developer**    
 
