@@ -4,14 +4,14 @@
 
 💻 Passionate about designing and building responsive web applications 
 🌱 Currently learning Full Stack Development 
-🚀 Seeking entry-level opportunities as a **Frontend** or **Full Stack Web Developer**    
+🚀 Seeking entry-level opportunities as a **Frontend** or **Full Stack Web Developer**                                                                                              
 
 ---
 
 💻 **Tech Skills**
 
 * **Frontend:** HTML, CSS, Bootstrap, JavaScript, ReactJS
-* **Backend:** Java, Python, Django
+* **Backend:**  Python, Django
 * **Database:** MySQL
 * **Tools:** VS Code, Git
 * **Methodologies:** Agile
